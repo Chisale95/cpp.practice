@@ -8,7 +8,8 @@ This repository documents my journey of learning C++ through hands-on coding and
 - 🔄 Functions (coming soon)
 
 ## 💻 Programs
-- Hello World
+### 📁 basics
+- Hello World (`basics/hello.cpp`)
 - Input/Output Program
 - While Loop Example
 ## 🛠️ Technologies
