@@ -9,7 +9,8 @@ This repository documents my journey of learning C++ through hands-on coding and
 
 ## 💻 Programs
 - Hello World
-
+- Input/Output Program
+- While Loop Example
 ## 🛠️ Technologies
 - C++
 
