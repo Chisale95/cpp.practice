@@ -18,9 +18,11 @@ While Loop Example (basics/while_loop.cpp)
 ### 📁 Arrays 
 Reverse Array Program (array/reverse_array.cpp)
 Demonstrates reversing an array using a while loop.
-Sum of Array Program (array/sum_array.cpp)
+# Sum of Array Program (array/sum_array.cpp)
 Calculates the sum of array elements.
 ### - Even and Odd Counter (`array/even_odd.cpp`) – Reads 10 integers and counts how many are even and odd using a while loop.
+### 
+- Repeated Element Checker (`array/repeated_element.cpp`) – Detects if any number is repeated in an array using nested for loops.
 ## 🛠️ Technologies
 - C++
 
