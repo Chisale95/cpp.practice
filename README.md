@@ -14,7 +14,8 @@ This repository documents my journey of learning C++ through hands-on coding and
 Hello World (basics/hello.cpp)
 Input/Output Program (basics/input_output.cpp)
 While Loop Example (basics/while_loop.cpp)
-##📁 Arrays
+
+### 📁 Arrays 
 Reverse Array Program (array/reverse_array.cpp)
 Demonstrates reversing an array using a while loop.
 Sum of Array Program (array/sum_array.cpp)
